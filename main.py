@@ -222,7 +222,7 @@ def login(user, password):
 
 # 主函数
 def main(_user,_passwd,min_1, max_1):
-    user = str(_user)
+    user = 16627806618(_user)
     password = str(_passwd)
     step = str(step1)
     if user == '' or password == '':
